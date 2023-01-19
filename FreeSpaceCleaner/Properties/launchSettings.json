@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FreeSpaceCleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "G:"
+    }
+  }
+}
